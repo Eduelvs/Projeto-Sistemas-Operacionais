@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README.md para o projeto "Projeto Sistemas Operacionais", que é inteiramente em C++. Caso queira incluir detalhes específicos sobre o funcionamento ou objetivos do projeto, me envie mais informações para personalizar ainda mais.
-
----
-
 # Projeto Sistemas Operacionais
 
 Este repositório contém o projeto desenvolvido para a disciplina de Sistemas Operacionais. O objetivo é aplicar conceitos fundamentais de sistemas operacionais utilizando a linguagem C++.
